@@ -5,6 +5,9 @@ Te consulta cuántas notas quieres promediar.
 Te pide cada nota una por una.
 ¡Listo! Te entrega el promedio final con un mensaje personalizado.
 
+<img width="2152" height="949" alt="image" src="https://github.com/user-attachments/assets/890b62ea-baaf-48dc-b812-f69a826f1f82" />
+
+
 
  
     ███████╗██╗███████╗██████╗ ██████╗  ██████╗ 
